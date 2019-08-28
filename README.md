@@ -33,5 +33,5 @@ www.akamai.com
 Domains not pointed to an Akamai edgehostname:
 =============================================
 
-roymartinezblanco.com
+roymartinez.dev
 ```
