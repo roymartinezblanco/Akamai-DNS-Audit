@@ -1,4 +1,4 @@
-# AkamaiDNSAudit
+# Akamai-DNS-Audit
 This script will audit a list of DNS records to see if they are On Akamai's CDN.
 
 ![Sample Output](https://raw.githubusercontent.com/roymartinezblanco/AkamaiDNSAudit/master/assets/sampleOutput.png)
